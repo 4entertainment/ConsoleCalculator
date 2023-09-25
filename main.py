@@ -1,4 +1,4 @@
-from art import logo
+from calculator_art import logo
 
 
 # Add
